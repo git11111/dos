@@ -1,7 +1,5 @@
-# dos
+# Maven Commands
 command line 
-
-MyFirstSpringBoot
 
 //maven commands
 
