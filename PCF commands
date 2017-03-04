@@ -4,3 +4,19 @@ cf login -a api.run.pivotal.io
 
 cf push app-name (in yml)
 
+cf logs beer --recent (to see logns)
+
+cf set-env appname
+
+cf restart appname
+
+cf scale
+
+cf create-service
+
+cf bind-service
+
+cf logs
+
+cf ssh
+
