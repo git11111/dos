@@ -20,7 +20,11 @@ cf logs
 
 cf apps
 
+cf app dist-config
 
+showing health and status of dist-config app
+
+http POST producer2.cfapps.io/bus/refresh
 
 cf ssh
 
