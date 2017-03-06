@@ -18,5 +18,9 @@ cf bind-service
 
 cf logs
 
+cf apps
+
+
+
 cf ssh
 
